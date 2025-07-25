@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! This website showcases my work, ski
 
 ## 📁 Live Website
 
-🌍 [Visit Portfolio](https://asmitrajaramkar.github.io/Asmit-Portfolio)
+🌍 [Visit Portfolio](https://asmit-portfolio.netlify.app/)
 
 ---
 
